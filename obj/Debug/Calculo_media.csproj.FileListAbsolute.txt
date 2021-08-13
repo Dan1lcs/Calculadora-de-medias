@@ -1,0 +1,10 @@
+C:\Users\Danilo\source\repos\Calculo_media\bin\Debug\Calculo_media.exe.config
+C:\Users\Danilo\source\repos\Calculo_media\bin\Debug\Calculo_media.exe
+C:\Users\Danilo\source\repos\Calculo_media\bin\Debug\Calculo_media.pdb
+C:\Users\Danilo\source\repos\Calculo_media\obj\Debug\Calculo_media.csproj.AssemblyReference.cache
+C:\Users\Danilo\source\repos\Calculo_media\obj\Debug\Calculo_media.Form1.resources
+C:\Users\Danilo\source\repos\Calculo_media\obj\Debug\Calculo_media.Properties.Resources.resources
+C:\Users\Danilo\source\repos\Calculo_media\obj\Debug\Calculo_media.csproj.GenerateResource.cache
+C:\Users\Danilo\source\repos\Calculo_media\obj\Debug\Calculo_media.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Calculo_media\obj\Debug\Calculo_media.exe
+C:\Users\Danilo\source\repos\Calculo_media\obj\Debug\Calculo_media.pdb
